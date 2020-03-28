@@ -1,6 +1,6 @@
 import React from 'react';
 
-import './pages/global.css'
+import './global.css'
 
 import Routes from './routes';
 
