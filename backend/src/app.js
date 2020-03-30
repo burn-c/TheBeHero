@@ -11,4 +11,4 @@ app.use(routes);
 app.use(errors());
 
 
-app.listen(4444);
+module.exports = app;
